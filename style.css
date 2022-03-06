@@ -392,7 +392,8 @@ body {
     }
     
     .learn-title a {
-        text-decoration: none;
+        text-decoration: underline;
+        font-weight: 450;
         font-size: 27px;
         letter-spacing: 0.2%;
         transition: 0.6s;
@@ -437,7 +438,8 @@ body {
     }
     
     .project-title a {
-        text-decoration: none;
+        text-decoration: underline;
+        font-weight: 450;
         font-size: 27px;
         letter-spacing: 0.2%;
         transition: 0.6s;
@@ -482,7 +484,8 @@ body {
     }
     
     .partner-title a {
-        text-decoration: none;
+        text-decoration: underline;
+        font-weight: 450;
         font-size: 27px;
         letter-spacing: 0.2%;
         transition: 0.6s;
@@ -624,7 +627,8 @@ body {
     }
     
     .learn-title a {
-        text-decoration: none;
+        text-decoration: underline;
+        font-weight: 450;
         font-size: 30px;
         letter-spacing: 0.2%;
         transition: 0.6s;
@@ -669,7 +673,8 @@ body {
     }
     
     .project-title a {
-        text-decoration: none;
+        text-decoration: underline;
+        font-weight: 450;
         font-size: 30px;
         letter-spacing: 0.2%;
         transition: 0.6s;
@@ -714,7 +719,8 @@ body {
     }
     
     .partner-title a {
-        text-decoration: none;
+        text-decoration: underline;
+        font-weight: 450;
         font-size: 30px;
         letter-spacing: 0.2%;
         transition: 0.6s;
