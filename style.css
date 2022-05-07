@@ -751,6 +751,7 @@ body {
     }
     
     footer {
+        position: relative;
         top: 0;
         left: 0;
         width: 100%;
@@ -784,7 +785,6 @@ body {
     footer ul li {
         position: relative;
         list-style: none;
-        font-size: 20px;
     }
     
     footer ul li a {
