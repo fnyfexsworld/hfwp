@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
 
 /*HEADER*/
 
@@ -792,4 +793,12 @@ footer ul li a {
         font-size: 1.1em;
         transition: 1s;
     }
+}
+
+.good-bye-text {
+   font-family: 'Rubik Moonrocks', cursive;
+   position: static;
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
